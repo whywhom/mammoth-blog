@@ -157,8 +157,8 @@ cnzz_siteid: 1260716016
 donate:
     enable: true
     message: '如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作!'
-    wechatImage: css/images/WeChanQR.jpg
-    alipayImage: css/images/AliPayQR.jpg
+    wechatImage: https://whywhom.github.io/donate/WeChanQR.jpg
+    alipayImage: https://whywhom.github.io/donate/AliPayQR.jpg
 
 # Automatic page load progress bar by PACE.js
 progressBar:
