@@ -55,7 +55,7 @@ sidebar: right
 widgets:
 - search
 - social
-- recent_posts
+# - recent_posts
 - category
 - tag
 - tagcloud
@@ -167,4 +167,4 @@ progressBar:
 
 # Ad
 ad:
-  google_adsense_ad_client_id: ca-pub-0123456789ABCDEF
+  google_adsense_ad_client_id: ca-pub-2289950984199962
