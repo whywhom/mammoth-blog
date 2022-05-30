@@ -44,3 +44,9 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+Create a new blog
+
+```bash
+$ hexo n 1234
+```
