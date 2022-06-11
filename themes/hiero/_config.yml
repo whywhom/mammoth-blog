@@ -54,8 +54,9 @@ fancybox: true
 sidebar: right
 widgets:
 - search
-- social
+# - social
 # - recent_posts
+- donation
 - category
 - tag
 - tagcloud
@@ -75,6 +76,7 @@ social:
 #   Flickr: 
    email: "whyzyywzy@gmail.com"
 
+donation:
 
 # Search
 search:
