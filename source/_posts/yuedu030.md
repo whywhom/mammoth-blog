@@ -50,6 +50,7 @@ categories:
 《刑法学讲义》、《刑罚的历史》、《刑法中的同意制度》
 
 ```bash
-链接: https://pan.baidu.com/s/11DldUa56SsDslA4A_yDaag  
-密码: 8ofp
+030: 
+https://url96.ctfile.com/d/35561896-49402894-995759?p=4184
+（访问密码：4184）
 ```
